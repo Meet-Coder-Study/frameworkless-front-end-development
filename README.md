@@ -1,1 +1,13 @@
-# frameworkless-front-end-development
+# 프레임워크 없는 프론트엔드 개발 책 스터디
+
+http://www.yes24.com/Product/Goods/96639825
+
+<img src="http://image.yes24.com/goods/96639825/XL" width="200"/>
+
+
+**수요일 9시**
+
+- 1장. 프레임워크에 대한 이야기 / 2장. 렌더링. -> 구민규
+- 3장. DOM 이벤트 관리 / 4장. 웹 구성 요소 -> 조건상
+- 5장. HTTP 요청 / 6장. 라우팅 -> 이덕희
+- 7장. 상태 관리 / 8장. 적합한 작업을 위한 적합한 도구
